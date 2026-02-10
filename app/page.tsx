@@ -4,7 +4,6 @@ import FooterSection from "@/components/footer";
 import HeroSection from "@/components/hero-section";
 import IntegrationsSection from "@/components/integrations-5";
 import StatsSection from "@/components/stats-4";
-import TeamSection from "@/components/team";
 
 export default function Home() {
   return (
@@ -13,7 +12,6 @@ export default function Home() {
     <FeaturesSection />
     <IntegrationsSection />
     <StatsSection />
-    <TeamSection />
     <FAQsThree />
     <FooterSection />
     </div>
